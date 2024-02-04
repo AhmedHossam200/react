@@ -1,0 +1,17 @@
+.all{
+    background-color: #2c3E50;
+}
+
+.navbar .all .inner .list li{
+    padding-inline: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar .all .inner .list li:hover{
+    background-color: #1abc9c;
+    transition: 0.5s background-color;
+    border-radius: 10px;
+}
+

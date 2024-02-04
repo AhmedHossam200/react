@@ -1,0 +1,26 @@
+.contact .container .iconic::before {
+    position: absolute;
+    content: " ";
+    background-color:#1a252f;
+    font-weight: bold;
+    height: 7px;
+    padding-left: 120px;
+    margin-left: -130px;
+    margin-top: 8px;
+  }
+
+  .contact .container .iconic::after {
+    position: absolute;
+    content: " ";
+    background-color:#1a252f;
+    font-weight: bold;
+    height: 6.4px;
+    padding-left: 120px;
+    margin-left: 10px;
+    margin-top: 8.5px;
+  }
+
+  .contact .container .form button{
+    background-color: #1abc9c;
+    border: none;
+  }

@@ -1,0 +1,45 @@
+.main{
+    background-color: #1abc9c;
+    height: 65vh;
+}
+
+.main .container{
+
+    padding-top: 30px;
+    color: white;
+
+}
+
+
+.main .container img{
+    width: 20%;
+
+}
+
+.iconic::before {
+    position: absolute;
+    content: " ";
+    background-color:white;
+    font-weight: bold;
+    height: 7px;
+    padding-left: 120px;
+    margin-left: -130px;
+    margin-top: 8px;
+  }
+
+  .iconic::after {
+    position: absolute;
+    content: " ";
+    background-color:white;
+    font-weight: bold;
+    height: 6.4px;
+    padding-left: 120px;
+    margin-left: 10px;
+    margin-top: 8.5px;
+  }
+
+  .main .container i{
+    font-size: 20px;
+    color: white;
+  }
+
